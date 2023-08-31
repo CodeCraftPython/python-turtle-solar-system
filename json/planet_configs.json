@@ -1,0 +1,42 @@
+{
+  "planet_imgs": {
+    "Mercury": "Mercury.gif",
+    "Venus": "Venus.gif",
+    "Earth": "Earth.gif",
+    "Mars": "Mars.gif"
+  },
+  "configs": {
+    "Mercury": {
+      "distance": 58,
+      "color": "gray",
+      "size": 0.8,
+      "speed": 1.0,
+      "angle": 0,
+      "turtle": null
+    },
+    "Venus": {
+      "distance": 108,
+      "color": "orange",
+      "size": 0.6,
+      "speed": 0.9,
+      "angle": 0,
+      "turtle": null
+    },
+    "Earth": {
+      "distance": 150,
+      "color": "blue",
+      "size": 1.0,
+      "speed": 0.8,
+      "angle": 0,
+      "turtle": null
+    },
+    "Mars": {
+      "distance": 230,
+      "color": "red",
+      "size": 0.8,
+      "speed": 0.6,
+      "angle": 0,
+      "turtle": null
+    }
+  }
+}
